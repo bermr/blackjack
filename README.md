@@ -1,1 +1,1 @@
-blackjack java game with 2 players and IA
+blackjack java game with 2 players
